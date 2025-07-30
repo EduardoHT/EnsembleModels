@@ -1,4 +1,4 @@
-# Repository of the Article: Enhancing Accuracy in Ship Classification Through Deep Learning Ensembles and Multi-Teacher Knowledge Distillation
+# Repository of the Paper: Enhancing Accuracy in Ship Classification Through Deep Learning Ensembles and Multi-Teacher Knowledge Distillation
 
 This repository provides the trained models and the main results obtained in the study "Enhancing Accuracy in Ship Classification Through Deep Learning Ensembles and Multi-Teacher Knowledge Distillation". The repository contains the trained models, the training, validation, and test folds, as well as results, diagrams, and figures that help detail the ensemble modeling process.
 
